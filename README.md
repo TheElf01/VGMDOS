@@ -2,9 +2,8 @@
 
 (Espanol: README_ES.md)
 
-<img width="640" height="400" alt="vgmdos_001 raw1" src="https://github.com/user-attachments/assets/586b03f2-af32-4a16-8267-b724c1e2166f" />
 <img width="640" height="400" alt="vgmdos_000 raw1 (1)" src="https://github.com/user-attachments/assets/cabc7420-077e-4cd3-8be8-354b362de8a6" />
-
+<img width="640" height="400" alt="vgmdos_001 raw1" src="https://github.com/user-attachments/assets/586b03f2-af32-4a16-8267-b724c1e2166f" />
 
 VGMDOS is a VGM player for DOS. It runs on a 286 or better.
 Songs that use FM chips play on the OPL of your sound card. The rest of the chips are emulated by software and go out through the DAC of the card.
